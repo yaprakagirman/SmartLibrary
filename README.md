@@ -155,3 +155,10 @@ Gelecekte bu projeye arayüz ekleme, raporlama sistemi veya gelişmiş doğrulam
 Bu README, projenin yapısını anlaşılır kılmak için yazılmıştır.
 Kodlar ve sınıf ilişkileri GitHub deposu içinde detaylı şekilde incelenebilir.
 
+##  Geliştirici
+
+*Yaprak Ağırman*
+Bilgisayar Programcılığı Öğrencisi
+
+
+
